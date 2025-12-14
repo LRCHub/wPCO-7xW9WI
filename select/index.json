@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "雫",
+  "base_artist": "SUKIMASWITCH",
+  "createdAt": "2025-12-14T03:27:38.709150Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "TEARS OF TRAGEDY",
+      "has_synced": true,
+      "path": "select/01_雫_TEARS_OF_TRAGEDY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/02_雫_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/03_雫_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "Sukima Switch",
+      "has_synced": true,
+      "path": "select/04_雫_Sukima_Switch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/05_雫_indigo_la_End.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "雫 feat. 三浦サリー",
+      "artist": "CLIFF EDGE",
+      "has_synced": true,
+      "path": "select/06_雫_feat._三浦サリー_CLIFF_EDGE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "雫 - Shizuku",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/07_雫_-_Shizuku_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "雫 - Shizuku",
+      "artist": "SUKIMASWITCH",
+      "has_synced": true,
+      "path": "select/08_雫_-_Shizuku_SUKIMASWITCH.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "あさき",
+      "has_synced": true,
+      "path": "select/09_雫_あさき.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "元ちとせ",
+      "has_synced": true,
+      "path": "select/10_雫_元ちとせ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "雫 -shizuku-",
+      "artist": "南里侑香",
+      "has_synced": false,
+      "path": "select/11_雫_-shizuku-_南里侑香.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "マルシィ",
+      "has_synced": true,
+      "path": "select/12_雫_マルシィ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "あたらよ - 雫 (Music Video)",
+      "artist": "ATARAYO",
+      "has_synced": true,
+      "path": "select/13_あたらよ_-_雫_(Music_Video)_ATARAYO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/14_雫_あたらよ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "雫",
+      "artist": "彩音",
+      "has_synced": false,
+      "path": "select/15_雫_彩音.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "雫 ('Shizuku')",
+      "artist": "Esprit D'Air",
+      "has_synced": true,
+      "path": "select/16_雫_('Shizuku')_Esprit_D'Air.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_01_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_02_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_03_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_04_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_05_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_06_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_07_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_08_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_09_雫_スキマスイッチ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "雫",
+      "artist": "スキマスイッチ",
+      "has_synced": false,
+      "path": "select/pl_10_雫_スキマスイッチ.txt"
+    }
+  ]
+}
